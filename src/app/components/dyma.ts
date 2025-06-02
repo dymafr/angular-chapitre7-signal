@@ -46,7 +46,7 @@ interface Product {
   styles: `
   `,
 })
-export class DymaComponent {
+export class Dyma {
   products = signal<Product[]>([
     {
       name: 'Cz Shadow 2',
